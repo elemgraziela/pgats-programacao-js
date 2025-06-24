@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Rodando testes...\" && exit 0",
-    "e2e": "npx playwright test conceitos/tests"
+    "e2e": "npx playwright test"
   },
   "keywords": [],
   "author": "",
