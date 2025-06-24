@@ -7,6 +7,7 @@
  * - a raça com a primeira letra maiuscula
  * - peso
  */
+import { test, expect } from '@playwright/test';
 
 const nome = "Lisa" , raca = "SRD"
 let idade = 3, peso = 4.0, adotado = true
