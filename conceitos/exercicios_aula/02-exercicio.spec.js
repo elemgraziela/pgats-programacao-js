@@ -34,7 +34,7 @@ function removerEspaçosEntreAPalavra(nomeCat){
 }
 
 function tornarAPrimeiraLetraMaiuscula(nomeCat){
-    return nomeCat.charAt(0).toUpperCase() + nomeCat.slice(1, nome.length).toLowerCase()
+    return nomeCat.charAt(0).toUpperCase() + nomeCat.slice(1).toLowerCase()
 }
 
 function verificarSeONomeEValido(nomeCat){

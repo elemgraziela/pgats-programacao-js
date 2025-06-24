@@ -16,9 +16,9 @@
  * acima de 30 - hora de diversão
  */
 
-nome = 'lisa'
-porte = 'p'
-tempo = 20
+let nome = 'lisa'
+let porte = 'p'
+let tempo = 20
 
 let atividade
 
