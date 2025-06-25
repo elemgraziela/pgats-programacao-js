@@ -5,7 +5,7 @@ import {
   calcularConsumoDeRacao,
   decidirTipoDeAtividadePorPorte,
   buscarDadoAsync
-} from './trabalho.js';
+} from './trabalho.test.js';
 
 test.describe('Testes da disciplina - fundamentos JS', () => {
   test('nome do pet em maiúsculas', () => {
